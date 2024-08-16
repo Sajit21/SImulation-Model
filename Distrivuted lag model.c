@@ -1,4 +1,5 @@
 //need other to be add
+//contain data output code
 #include <stdio.h>
 
 
