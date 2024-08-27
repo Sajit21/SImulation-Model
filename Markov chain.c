@@ -1,4 +1,5 @@
 //have to include uniformity test
+//task pf markov chain for lab report
 #include <stdio.h>
 
 int main()
