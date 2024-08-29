@@ -1,5 +1,6 @@
 //have to include uniformity test
 //task pf markov chain for lab report
+//analyze and predict the future in logical way
 #include <stdio.h>
 
 int main()
