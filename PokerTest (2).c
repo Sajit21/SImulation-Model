@@ -1,3 +1,5 @@
+//based on frequency  which provides repetition of digits in a series of numbers
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
